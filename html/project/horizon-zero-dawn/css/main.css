@@ -1,0 +1,70 @@
+a:link {
+    color: rgb(242, 249, 17);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(242, 249, 17);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+h1{
+	color: rgb(242, 249, 17);
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px auto  30px 0px;
+	margin: 10px auto 5px 15px;
+    }
+
+.h12{
+	color:  rgb(242, 249, 17);
+   font-size: 40px;
+   margin: 10px 30px 10px 55px;
+   padding: -10px 10px 0px 80px;
+}
+em{
+	color: white;
+}
+header{
+	color:  rgb(242, 249, 17);
+	background-color: rgba(169, 246, 252,0.4);
+	margin: 5px -10px 10px -20px;
+	padding: 20px 5px 25px 15px;
+	font-size: 26px;
+	font-weight: bold;
+	font-family: Arial italic;
+	
+}
+body{
+	background-color: green;
+	
+}
+
+.body{
+	border: 1px solid rgba(242, 249, 17, 0.5);
+    background-color: rgba(169, 246, 252,0.4);
+	text-align: center;
+	margin: 20px 300px 100px 300px;
+}
+p{
+	margin: 10px 50px 10px 50px;
+	font-family: georgia, serif;
+	line-height: 1.3em;
+	font-size: 18px;
+	color: white;
+}
+p::first-letter{
+	font-size: 25px;
+	color:  rgb(242, 249, 17);
+}
+h3{
+	color:  rgb(242, 249, 17);
+   font-size: 30px;
+   margin: 25px 15px 10px 10px;
+   padding: -10px 10px 0px 80px;
+}

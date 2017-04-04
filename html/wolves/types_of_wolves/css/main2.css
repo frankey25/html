@@ -1,0 +1,83 @@
+h1{
+	font-family:serif;
+	font-size:125px;
+	color: darkred;
+    text-align: center;
+	border: 1px solid black;
+    background-color: ;
+	margin: 100px 150px 100px 80px;
+	padding:50px;
+	text-transform: capitalize;
+}
+div{
+	border: 1px solid black;
+    margin: 100px 150px 100px 80px;
+    background-color: ;
+	text-align: center;
+}
+h2{
+  font-family:italic;
+  font-size: 75px;
+  color: red;
+}
+h3{
+	font-family:italic;
+  font-size:50px;
+  color: #052d6d;
+}
+body{
+	 background-image:url(../images/ice-2.jpg);
+}
+
+p{
+ font-family: sans-serif;
+ font-weight: bold;
+ font-size: 22px;
+ color: white;
+ text-transform:capitalize;
+ line-height:1.5em;
+ letter-spacing: 0.2em;
+ }
+ 
+ img{
+	border-radius: 200px 10px;
+	width: 600px;
+	height: 350px;
+ }
+			 
+li {
+	font-family: italic;
+	font-weight: bold;
+	font-size: 22px;
+	display: inline;
+	padding: 10px;
+	margin: 20px;
+	border-width: solid;
+	border-style:thick;
+	color: white;
+}
+
+
+
+a#back{
+	font-size:40px;
+	color: red;
+}		
+a#top{
+	font-fac
+	font-size: 30px;
+	color: red;
+	font-weight:
+}
+
+#ol{
+ font-family: italic;
+ font-weight: bold;
+font-size: 22px;
+display: list-item;
+padding: 10px;
+margin: 22px;
+border-style:thick;
+color: lightblue;
+
+}

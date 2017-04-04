@@ -1,0 +1,94 @@
+a:link {
+    color: rgb(242, 249, 17);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(242, 249, 17);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+h1{
+	color: rgb(242, 249, 17);
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px auto  30px 0px;
+	margin: 10px auto 5px 15px;
+    }
+header{
+  color:  rgb(242, 249, 17);
+  background-color: lightblue;
+  margin: 5px -20px 10px -20px;
+  padding: 20px 5px 25px 15px;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: Arial italic;
+  
+}
+em{
+	color: white;
+}
+body{
+  background-color: rgba(0, 97, 255,0.7);
+  
+}
+
+.body{
+  border: 1px solid rgba(3, 60, 153, 0.5);
+  background-color: lightblue;
+  text-align: center;
+  margin: 20px 300px 100px 300px;
+}
+h2{
+  color:  rgb(242, 249, 17);
+   font-size: 40px;
+   margin: 10px 30px 10px 20px;
+   padding: -10px 10px 0px 80px;
+}
+p{
+  margin: 10px 50px 10px 50px;
+  font-family: georgia, serif;
+  line-height: 1.3em;
+  font-size: 18px;
+  color: black;
+}
+p::first-letter{
+  font-size: 25px;
+  color:  rgb(242, 249, 17);
+}
+h3{
+  color:  rgb(242, 249, 17);
+   font-size: 30px;
+   margin: 25px 15px 10px 10px;
+   padding: -10px 10px 0px 80px;
+}
+table{
+  width:600px;
+  border-spacing:20px 40px;
+  border-collapse: separate;
+  margin: 10px auto 15px auto;
+}
+th,td{
+  padding: 7px 10px 10px 10px;
+
+}
+td{
+  border-width: 2px;
+  border-style: solid;
+  border-color: #efefef;
+  margin: -10px 10px -10px 10px;
+}
+th{
+  text-transform: uppercase;
+  font-family: georgia;
+  font-size: 30px;
+  color: rgb(242, 249, 17);
+  border-top: 2px solid #111111;
+  border-bottom: 1px solid #111111;
+  text-align: center;
+}

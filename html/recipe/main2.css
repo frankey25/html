@@ -1,0 +1,54 @@
+
+h1{
+    font-family:moonglow;
+	font-weight:700;
+    font-style:static;
+	font-size:34px;
+	background-color:#56e2a1;
+	border-top:2px solid black;
+	border-right:1px solid black;
+	border-left:1px solid black;
+	border-bottom:2px solid black;
+	margin:0px; /* top right bottom left*/
+	color:#8B0000;
+
+}
+	ol{
+	font-family:normal;
+	font-weight:450;
+	font-style:chaucer;
+	font-size:20px;
+	color:red;
+}
+ul{
+	font-family:normal;
+	font-weight:500;
+	font-style:chaucer;
+	font-size:20px;
+	color:red;
+	}
+body {
+  text-align: center;
+  background-color: #afbacc;
+ }
+
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+div{
+	background-color:#b0e5cc;
+	border-left:2px black;
+	border-right:2px black;
+
+	}
+
+h2{
+	color:white;
+	}
+	
+a{
+	font-size:20px;
+	font-style:moonglow;
+}

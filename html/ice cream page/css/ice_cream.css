@@ -1,0 +1,96 @@
+h1{
+	margin: 50px;
+}
+
+
+body{
+		     font-family:arial,sanserif;
+			 color:#a18843;
+			 font-size:25px;
+			 text-align: center;
+			 margin: auto;
+			 background-color: #7a1d04;
+			 background-image:url(../images/ice.png);
+			 }
+#header{
+		     font-family:georgia;
+			 color:#292220;
+			 background-color:#e8cfc8;
+			 text-align:center;
+			 margin: 100px;
+		    }
+ #kintz{
+		     font-family: Lobster, cursive;
+			 font-size:65px;
+			 font-style:italic;
+			 font-weight:bold;
+			 text-transform:capitalize;
+			 text-decoration: line-through;
+			 line-height:1.5em;
+			 letter-spacing: 0.2em;
+			 word-spacing: 1em;
+			 text-align: left;
+			 text-indent: 200px;
+			 text-shadow: -3px 4px 3px blue;
+			 width: 900px;
+			 height: 200px;
+			 overflow:scroll;
+			 border-width:10px;
+			 border-style:dashed solid double dotted;
+			 border-color:red;
+			 border-radius: 150px 0px;
+			 box-shadow:-8px 5px 6px #111111;
+			 margin: 100px auto;
+			 padding: 100px;
+			
+			 }	
+#kintz:first-letter{
+	color:red;
+	font-size:100px;
+	}
+#kintz:hover{
+	background-color:green;
+}	
+ .important{
+		     color:white;
+		     }	
+			 
+			 
+li {
+	display: inline;
+	padding: 10px;
+	margin: 50px;
+	border-width: solid;
+	border-style:thick;
+}		
+li#milk	{
+	
+	visibility: hidden;
+}
+
+table{
+	width:600px;
+	border-spacing:20px 40px;
+	border-collapse: separate;
+	margin: 10px auto 15px auto;
+}
+th,td{
+	padding: 7px 10px 10px 10px;
+}
+td{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #efefef;
+}
+th{
+	text-transform: uppercase;
+	font-family: georgia;
+	font-size: 30px;
+	color: red;
+	border-top: 2px solid #111111;
+	border-bottom: 1px solid #111111;
+	text-align: center;
+}
+tr.odd{
+	background-color:green;
+}
